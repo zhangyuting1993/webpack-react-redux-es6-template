@@ -38,7 +38,6 @@
 	│   ├── js
  	│   │    ├── action
     │   │    ├── reducer
-	│	│	 ├── function
 	│   │	 ├── conf
 	│   ├── css      
 	│   ├── conf

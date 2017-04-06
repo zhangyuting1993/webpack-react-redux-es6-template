@@ -22,7 +22,7 @@
     "react",
     "es6",
     "babel",
-    "redux",
+    "redux"
   ],
   "author": "",
   "license": "MIT",
